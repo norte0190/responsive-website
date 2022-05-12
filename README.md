@@ -14,8 +14,9 @@
 
 <br>
 
+## 미리보기
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/219df29f-fa65-42ad-b9dd-53af4322c9dd/deploy-status)](https://app.netlify.com/sites/milk-maca-starbucks/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8174fcf1-2a85-49a5-a4f0-d90776c11d7b/deploy-status)](https://app.netlify.com/sites/milk-maca-portfolio/deploys)
 
 [> Sample ](https://milk-maca-portfolio.netlify.app/)  
 
