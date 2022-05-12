@@ -1,3 +1,16 @@
+![previews](https://raw.githubusercontent.com/milk-maca/responsive-website/master/assets/previews.png)
+
+## 미리보기
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8174fcf1-2a85-49a5-a4f0-d90776c11d7b/deploy-status)](https://app.netlify.com/sites/milk-maca-portfolio/deploys)
+
+[> Sample ](https://milk-maca-portfolio.netlify.app/)  
+
+
+
+ 
+
+
 # 🌈 Portfolio Site
 
 포트폴리오로 활용 가능한 웹사이트 
@@ -14,12 +27,3 @@
 
 <br>
 
-## 미리보기
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8174fcf1-2a85-49a5-a4f0-d90776c11d7b/deploy-status)](https://app.netlify.com/sites/milk-maca-portfolio/deploys)
-
-[> Sample ](https://milk-maca-portfolio.netlify.app/)  
-
-![previews](https://raw.githubusercontent.com/milk-maca/responsive-website/master/assets/previews.png)
-
- 
