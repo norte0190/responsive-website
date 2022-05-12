@@ -19,6 +19,6 @@
 
 [> Sample ](https://milk-maca-portfolio.netlify.app/)  
 
-![previews](https://raw.githubusercontent.com/milk-maca/starbucks-practice/main/assets/previews.png)
+![previews](https://raw.githubusercontent.com/milk-maca/responsive-website/master/assets/previews.png)
 
  
