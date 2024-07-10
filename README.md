@@ -1,8 +1,5 @@
 ## 미리보기
 
-![previews](https://raw.githubusercontent.com/milk-maca/responsive-website/master/assets/previews.png)
-
-
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8174fcf1-2a85-49a5-a4f0-d90776c11d7b/deploy-status)](https://app.netlify.com/sites/milk-maca-portfolio/deploys)
 
